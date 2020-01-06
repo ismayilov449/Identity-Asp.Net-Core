@@ -1,8 +1,8 @@
 # Identity-Basic-
 
 Login/Logout/Registration part
-Using Roles
+Create(Edit/Remove) Role | Add(Edit/Remove) role to Users
 
 
-Help by Udemy/Sadık Turan/Baştan Sona Asp .Net Core Mvc Kursu | 2019
+
 
